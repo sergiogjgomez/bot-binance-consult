@@ -1,0 +1,5 @@
+binance-connector==2.0.0
+pandas==1.5.1
+ta-lib==0.4.24
+pandas-ta==0.3.14b0
+matplotlib==3.5.3
