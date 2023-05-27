@@ -112,4 +112,4 @@ if __name__ == '__main__':
             print(f'No hay condiciones significativas para la alza del par {bot.pair}\n')
     
     except:
-        print('ERROR! Par o Intervalo incorrecto, por favor vuelve a intentarlo')
+        print('ERROR! Par o Intervalo incorrecto, por favor vuelve a intentarlo')    
